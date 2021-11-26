@@ -4,7 +4,7 @@ An interactive tutorial for working with python, made with jupyter notebooks.
 
 There is also going to be a binder, if I can manage to make one.
 
-The tutorial is in german and concerns itself just with beginner-level stuff, like variables, conditions, for/while loops, how to define and use functions and import libraries. 
+The tutorial is in german and concerns itself with variables, conditions, for/while loops, how to define and use functions and import libraries. 
 
 ## Getting started
 
