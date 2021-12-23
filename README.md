@@ -1,15 +1,23 @@
-# Python-tutorial-jupyter
+# Python-Machine-Learning-tutorial-jupyter
 
-An interactive tutorial for working with python, made with jupyter notebooks.
+Mehrere deutschsprachige, interaktive, Tutorials welche mithilfe von Jupyter Notebooks erstellt worden sind, die sich mit den folgenden Themen auseinandersetzen:
 
-There is also going to be a binder, if I can manage to make one.
+1. Grundlegende Python Kenntnisse
+2. Textverarbeitung mithilfe von Python
+3. Clusteringverfahren K-Means und Hierarchical Agglomerative Clustering
 
-The tutorial is in german and concerns itself with variables, conditions, for/while loops, how to define and use functions and import libraries. 
+Several interactive, tutorials which have been created using Jupyter Notebooks, covering the following topics:
+
+1. basic Python knowledge
+2. text processing using Python
+3. clustering methods K-Means and Hierarchical Agglomerative Clustering
+
+The tutorial is in german.
 
 ## License
 MIT License
 
-Copyright (c) 2021 Richard Winzinger
+Copyright (c) 2021 Richard Winzinger, Sema Kaya, Ezgi Gürsoy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
