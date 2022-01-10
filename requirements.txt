@@ -4,4 +4,3 @@ pandas==1.3.4
 matplotlib==3.4.3
 scikit-learn==1.0.1
 glob2==0.7
-difflib
