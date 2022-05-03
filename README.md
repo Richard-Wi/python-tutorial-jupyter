@@ -39,4 +39,4 @@ SOFTWARE.
 
 ## Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/RichardWin%2Fpython-tutorial-jupyter/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Richard-Wi/python-tutorial-jupyter/HEAD)
